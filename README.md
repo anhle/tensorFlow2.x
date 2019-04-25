@@ -20,7 +20,7 @@
 18. Faster RCNN
 19. A2C
 
-#Refered Repos.
+# Refered Repos.
 Our work is not built from scratch. Great appreciation to these open works！
 
 * https://github.com/madalinabuzau/tensorflow-eager-tutorials
